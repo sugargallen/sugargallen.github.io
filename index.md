@@ -1,5 +1,5 @@
 ## 这个世界会好的
-### This World Will be Alright
+## This World Will be Alright
     我看见
     我看见一个孩子
     低着头走过我窗前
@@ -11,5 +11,4 @@
     孤独的很明显
     除了时间 什么也没有
     除了时间 我什么也不缺
-![挹江门](https://wx4.sinaimg.cn/mw690/7b36c8b5ly1ggas2c0vshj23402c04qq.jpg)
 
