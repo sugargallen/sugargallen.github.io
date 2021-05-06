@@ -2,7 +2,7 @@ Gallen Xu
 ======
 
 #### A financial practitioner who wants to become a rock star
-###### [ [sugargallen.github.io](http://sugargallen.github.io) ] . [ gx52@cornell.edu ] . [ 917-945-8563 ]
+###### [ [sugargallen.github.io](https://github.com/sugargallen) ] . [ gx52@cornell.edu ] . [ 917-945-8563 ]
 
 
 Education
