@@ -16,33 +16,38 @@ Education
 
 - Honor Graduation, 3.75/4.0 GPA
 
+Techinical Skills
+------
+**Programming in Python, Java; Database Query by SQL; Experience in Word, Excel, PowerPoint, and Wind.
 
-Experience
+**Data reduction, cleaning, and analysis by libraries including Python Pandas, Numpy, SKlearn, Scipy, OpenNLP, etc.
+
+**Machine learning algorithms such as SVM, Logistic Regression, Decision Tree, K-means, KNN, PCA, Random Forest, etc.
+
+**Proficiency in English (TOEFL 107, GRE 328); German as a foreign language: Speaking (B1), Writing (A2).
+
+Work Experience
 ---------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Investment Banking Intern, Huatai United Securities** (2020.8-2020.11, Beijing, CN)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Completed customer visits, drafting of manuscript, response to internal review, preparation of issuance filing materials, and cash flow forecasting for ordinary financial bonds and ABS projects such as CLO and RMBS
+- Completed the on-site work of the issuer and provided guidance on the issuer’s material preparation for the regulatory authorities
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**AI Lab Summer Intern, Ernst & Young Advisory Ltd** (2019.6-2019.8, Shanghai, CN)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Participated in smart financial budget project by using KNN and K-means algorithm to classify/cluster the business expenditure data of institutional outlets to determine the scale of outlets and assist the financial department in formulating budget planning
+- Implemented PCA + Multiple Regression model of macroeconomic forecasting by Python and carried out output in back-testing report with real historical data; the model performance was great, with R-square over 0.9 and MAE proportion lower than 2%
+- Participated in a new robot-advisor system called Cognitive Trader by constructing Mean-Variance and Risk-Parity models in Python, re-designing the calculation framework to improve speed of operations, and designed the product front-end GUI
 
-Skills
-------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
-
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
-
-Projects
+Other Activities
 --------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
+**[Natural Language Processing Research —— Word Prediction](https://github.com/sugargallen/POS-Ngram-Enhancement)** (2019.3-2019.5)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+- Implement the N-gram model, and replace the original probabilities of the N-gram model with conditional probabilities based on word part-of-speech tagging to rank the prediction results to form a POS-Ngram model
+- Using the Keystroke Saving test standard, the simple N-gram model is compared with the POS-Ngram model, the subjectively weighted POS-Ngram model, and the SVM-based topic classification weighted POS-Ngram model for experimental comparison
+
+**Summits and Voluntary Works** (2016.9-present)
+- Made speeches, provided consultation, and presided over the meeting for summits on Study Abroad, Business, and Entrepreneurship; Volunteered as a student leader of underprivileged children at Wispring Education Development Foundation
 
 
